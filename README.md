@@ -15,3 +15,13 @@ transformations using Databricks.
 - Time and Date
 - Split, Expload, Indexing
 - String Functions
+- Collect List, Collect set
+- Pivot
+- Joins
+  - Inner
+  - Right
+  - Left
+  - Full/Outer
+  - Semi
+  - Anti
+  - Cross
