@@ -25,3 +25,10 @@ transformations using Databricks.
   - Semi
   - Anti
   - Cross
+- Window Functions
+  - Row Number
+  - Rank
+  - Dense Rank
+  - Cummulative Sum
+- Writing DataFrame
+- File Formats
